@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cdn.game.yileweb.com/djx_res_01/ipa/app.ipa</string>
+					<string>https://github.com/lvpengcheng/ipa/raw/master/HelloWorld.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -25,13 +25,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.yileweb.djx</string>
+				<string>com.easy.hello</string>
 				<key>bundle-version</key>
-				<string>1.4.0</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>DJX</string>
+				<string>HelloWorld</string>
 			</dict>
 		</dict>
 	</array>
